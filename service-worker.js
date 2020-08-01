@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LAESAcalendar/precache-manifest.57fd99a81d8dbb68d297e6ef6e511671.js"
+  "/LAESAcalendar/precache-manifest.0c13822d7b1f4ca926e15caf9d10b384.js"
 );
 
 self.addEventListener('message', (event) => {
