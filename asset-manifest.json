@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/.github.io/LAESAcalendar/static/css/main.5f361e03.chunk.css",
-    "main.js": "/.github.io/LAESAcalendar/static/js/main.81bf560b.chunk.js",
-    "main.js.map": "/.github.io/LAESAcalendar/static/js/main.81bf560b.chunk.js.map",
+    "main.js": "/.github.io/LAESAcalendar/static/js/main.377d5dea.chunk.js",
+    "main.js.map": "/.github.io/LAESAcalendar/static/js/main.377d5dea.chunk.js.map",
     "runtime-main.js": "/.github.io/LAESAcalendar/static/js/runtime-main.22de0dc9.js",
     "runtime-main.js.map": "/.github.io/LAESAcalendar/static/js/runtime-main.22de0dc9.js.map",
-    "static/js/2.4692e87a.chunk.js": "/.github.io/LAESAcalendar/static/js/2.4692e87a.chunk.js",
-    "static/js/2.4692e87a.chunk.js.map": "/.github.io/LAESAcalendar/static/js/2.4692e87a.chunk.js.map",
+    "static/js/2.d6578d60.chunk.js": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js",
+    "static/js/2.d6578d60.chunk.js.map": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js.map",
     "index.html": "/.github.io/LAESAcalendar/index.html",
-    "precache-manifest.bb1f3eb7481786b1141581596c481f2a.js": "/.github.io/LAESAcalendar/precache-manifest.bb1f3eb7481786b1141581596c481f2a.js",
+    "precache-manifest.15d2ecbe2ab761c9126c5b0809b76252.js": "/.github.io/LAESAcalendar/precache-manifest.15d2ecbe2ab761c9126c5b0809b76252.js",
     "service-worker.js": "/.github.io/LAESAcalendar/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/.github.io/LAESAcalendar/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4692e87a.chunk.js.LICENSE.txt": "/.github.io/LAESAcalendar/static/js/2.4692e87a.chunk.js.LICENSE.txt",
+    "static/js/2.d6578d60.chunk.js.LICENSE.txt": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/.github.io/LAESAcalendar/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.22de0dc9.js",
-    "static/js/2.4692e87a.chunk.js",
+    "static/js/2.d6578d60.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.81bf560b.chunk.js"
+    "static/js/main.377d5dea.chunk.js"
   ]
 }

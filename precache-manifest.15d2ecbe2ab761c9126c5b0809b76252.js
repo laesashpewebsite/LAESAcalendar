@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e466b33a705cec229b22373d42278093",
+    "revision": "a1436e2d302e32d427d34665754d6281",
     "url": "/.github.io/LAESAcalendar/index.html"
   },
   {
-    "revision": "d4a0d467beb8c2972704",
+    "revision": "f3ee1d79da0ddb9c91c1",
     "url": "/.github.io/LAESAcalendar/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "6952b58b599eb8644ff3",
-    "url": "/.github.io/LAESAcalendar/static/js/2.4692e87a.chunk.js"
+    "revision": "ad0e6ca40e817d1742dd",
+    "url": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/.github.io/LAESAcalendar/static/js/2.4692e87a.chunk.js.LICENSE.txt"
+    "url": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4a0d467beb8c2972704",
-    "url": "/.github.io/LAESAcalendar/static/js/main.81bf560b.chunk.js"
+    "revision": "f3ee1d79da0ddb9c91c1",
+    "url": "/.github.io/LAESAcalendar/static/js/main.377d5dea.chunk.js"
   },
   {
     "revision": "94305e61fd9e33cd769b",
