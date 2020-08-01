@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1436e2d302e32d427d34665754d6281",
+    "revision": "4412e3448cf1273bc5aeccbad487d42e",
     "url": "/.github.io/LAESAcalendar/index.html"
   },
   {
