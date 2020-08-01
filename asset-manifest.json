@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/.github.io/LAESAcalendar/static/css/main.5f361e03.chunk.css",
-    "main.js": "/.github.io/LAESAcalendar/static/js/main.a6a06376.chunk.js",
-    "main.js.map": "/.github.io/LAESAcalendar/static/js/main.a6a06376.chunk.js.map",
-    "runtime-main.js": "/.github.io/LAESAcalendar/static/js/runtime-main.22de0dc9.js",
-    "runtime-main.js.map": "/.github.io/LAESAcalendar/static/js/runtime-main.22de0dc9.js.map",
-    "static/js/2.d6578d60.chunk.js": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js",
-    "static/js/2.d6578d60.chunk.js.map": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js.map",
-    "index.html": "/.github.io/LAESAcalendar/index.html",
-    "precache-manifest.574a6b361d1ff315ebba873759d81f88.js": "/.github.io/LAESAcalendar/precache-manifest.574a6b361d1ff315ebba873759d81f88.js",
-    "service-worker.js": "/.github.io/LAESAcalendar/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/.github.io/LAESAcalendar/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d6578d60.chunk.js.LICENSE.txt": "/.github.io/LAESAcalendar/static/js/2.d6578d60.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/.github.io/LAESAcalendar/static/media/logo.5d5d9eef.svg"
+    "main.css": "/LAESAcalendar/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LAESAcalendar/static/js/main.8c78d5c6.chunk.js",
+    "main.js.map": "/LAESAcalendar/static/js/main.8c78d5c6.chunk.js.map",
+    "runtime-main.js": "/LAESAcalendar/static/js/runtime-main.8785343a.js",
+    "runtime-main.js.map": "/LAESAcalendar/static/js/runtime-main.8785343a.js.map",
+    "static/js/2.d6578d60.chunk.js": "/LAESAcalendar/static/js/2.d6578d60.chunk.js",
+    "static/js/2.d6578d60.chunk.js.map": "/LAESAcalendar/static/js/2.d6578d60.chunk.js.map",
+    "index.html": "/LAESAcalendar/index.html",
+    "precache-manifest.bcfe87af161d5054a26b822013921053.js": "/LAESAcalendar/precache-manifest.bcfe87af161d5054a26b822013921053.js",
+    "service-worker.js": "/LAESAcalendar/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LAESAcalendar/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d6578d60.chunk.js.LICENSE.txt": "/LAESAcalendar/static/js/2.d6578d60.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LAESAcalendar/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22de0dc9.js",
+    "static/js/runtime-main.8785343a.js",
     "static/js/2.d6578d60.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a6a06376.chunk.js"
+    "static/js/main.8c78d5c6.chunk.js"
   ]
 }
